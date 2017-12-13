@@ -1,0 +1,9 @@
+Building ScryptBP
+
+See doc/readme-qt.rst for instructions on building scryptbp-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ScryptBP.
+
+See doc/build-*.txt for instructions on building scryptbp,
+the intended-for-services, no-graphical-interface, reference
+implementation of ScryptBP.
